@@ -1,0 +1,9 @@
+Package: com.binksalex.fluidify
+Name: Fluidify
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Fluidify your older iPhone by enabling iPhone X fluid gestures
+Maintainer: binksalex
+Author: binksalex
+Section: Tweaks
