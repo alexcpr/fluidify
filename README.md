@@ -11,6 +11,7 @@ All pre-X devices running iOS 12.
 * iPhone X CC Grabber on the lockscreen.
 * iPhone X keyboard.
 * iPhone X rounded dock.
+* iPhone X Siri & Screenshot button combination.
 * Lightweight (4,24 Ko & 97 lines of code).
 * No battery drain.
 
